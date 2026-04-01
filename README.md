@@ -1,14 +1,11 @@
 # 5-DOF-robotic-arm
 ## Gestures
 This robotic arm has 5 degrees of freedom (DOF) controlled by 5 motors: the base motor, shoulder motor, elbow motor, wrist motor, and gripper motor. These 5 motors correspond to the 5 gesture controls implemented with the computer vision framework MediaPipe:
-- Move hand left/right -> Move base anticlockwise/clockwise
-- Move hand up/down -> Move shoulder up/down
-- Open/close palm -> Move elbow up/down
-- Rotate wrist 180° -> Rotate robotic wrist 90°
-- Open/close thumb and pinky -> Open/close gripper
-
-## Presentation & Demo
-[Google Slides](https://docs.google.com/presentation/d/1y2ku2sdPWo4UR9WPTGeSHaGHNblJhp-HuTntUUB2CP0/edit?usp=sharing)
+1. Move hand left/right -> Move base anticlockwise/clockwise
+2. Move hand up/down -> Move shoulder up/down
+3. Open/close palm -> Move elbow up/down
+4. Rotate wrist 180° -> Rotate robotic wrist 90°
+5. Open/close thumb and pinky -> Open/close gripper
 
 ## Design
 Before 3D printing, we made our prototype using acrylic laser cutting.  
@@ -27,6 +24,9 @@ Structural integrity was the main problem as the acrylics were not firm and stro
 
 This is our final design :)
 <img width="3420" height="1920" alt="image" src="https://github.com/user-attachments/assets/4cf7a6bf-d4f3-4fe9-8fe6-f219c55e3820" />
+
+## Presentation & Demo
+[Google Slides](https://docs.google.com/presentation/d/1y2ku2sdPWo4UR9WPTGeSHaGHNblJhp-HuTntUUB2CP0/edit?usp=sharing)
 
 ## To-do
 - [ ] Train a model to learn more varied gestures ([MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/customization/gesture_recognizer))

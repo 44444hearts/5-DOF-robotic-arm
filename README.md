@@ -1,4 +1,4 @@
-# 5-dof-robotic-arm
+# 5-DOF-robotic-arm
 ## Gestures
 This robotic arm has 5 degrees of freedom (DOF) controlled by 5 motors: the base motor, shoulder motor, elbow motor, wrist motor, and gripper motor. These 5 motors correspond to the 5 gesture controls implemented with the computer vision framework MediaPipe:
 - Move hand left/right -> Move base anticlockwise/clockwise

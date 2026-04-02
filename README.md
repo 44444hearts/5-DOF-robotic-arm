@@ -26,7 +26,7 @@ This is our final design :)
 <img width="3420" height="1920" alt="image" src="https://github.com/user-attachments/assets/4cf7a6bf-d4f3-4fe9-8fe6-f219c55e3820" />
 
 ## Presentation & Demo
-[Google Slides](https://docs.google.com/presentation/d/1y2ku2sdPWo4UR9WPTGeSHaGHNblJhp-HuTntUUB2CP0/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1y2ku2sdPWo4UR9WPTGeSHaGHNblJhp-HuTntUUB2CP0/edit?usp=sharing)  
 [Demo](https://drive.google.com/file/d/1TxiU-1tjvNFhZ74PIxLC11Pbq8uhhEvM/view?usp=sharing)
 
 ## To-do

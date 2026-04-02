@@ -27,6 +27,7 @@ This is our final design :)
 
 ## Presentation & Demo
 [Google Slides](https://docs.google.com/presentation/d/1y2ku2sdPWo4UR9WPTGeSHaGHNblJhp-HuTntUUB2CP0/edit?usp=sharing)
+[Demo](https://drive.google.com/file/d/1TxiU-1tjvNFhZ74PIxLC11Pbq8uhhEvM/view?usp=sharing)
 
 ## To-do
 - [ ] Train a model to learn more varied gestures ([MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/customization/gesture_recognizer))

@@ -12,7 +12,7 @@ Before 3D printing, we made our prototype using acrylic laser cutting.
 
 **Gripper**  
 We had to iterate on the gripper due to many challenges with its grip (i.e. not being able to pick up objects) and its smooth open-and-close motion when controlled by the servo motor. The following are our initial and final acrylic designs respectively:
-<img width="3420" height="1920" alt="image" src="https://github.com/user-attachments/assets/5c9e6ae8-4e92-48f2-a116-33eb5212ab0d" />
+<img src="https://github.com/user-attachments/assets/5c9e6ae8-4e92-48f2-a116-33eb5212ab0d" width="800"/>
 <img width="3420" height="1920" alt="image" src="https://github.com/user-attachments/assets/f5a5043f-7ab8-479e-9c5a-f792c24b7940" />
 
 **Arm**  

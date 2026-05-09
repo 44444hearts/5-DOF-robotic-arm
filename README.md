@@ -16,7 +16,7 @@ We had to iterate on the gripper due to many challenges with its grip (i.e. not 
 <img src="https://github.com/user-attachments/assets/f5a5043f-7ab8-479e-9c5a-f792c24b7940" width="800"/>
 
 **Arm**  
-Structural integrity was the main problem as the acrylics were not firm and strong enough to hold the arm upright. This would be later resolved by our 3D design as it was more stable using PLA. The following are our 2D and 3D arm designs:
+Structural integrity was a key concern as the acrylics were not firm and strong enough to hold the arm upright. This would be later resolved by our 3D design as it was more stable with PLA. The following are our 2D and 3D arm designs:
 <img src="https://github.com/user-attachments/assets/3ecf8607-17a2-4cca-97bd-714b29318527" width="800"/>
 <img src="https://github.com/user-attachments/assets/e7978b9a-33fe-447b-98b0-2de97a789871" width="800"/>
 <img src="https://github.com/user-attachments/assets/a44d0d14-182e-4254-92ca-f47fa5ef1efd" width="800"/>
